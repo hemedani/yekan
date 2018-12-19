@@ -5,5 +5,5 @@
 برای استفاده کد زیر را در صفحه ایندکس خود قرار دهید
 
 ```html
-<link href="https://cdn.rawgit.com/hemedani/yekan/v3.0.0/font-face.css" rel="stylesheet" type="text/css" />
+<link href="https://cdn.jsdelivr.net/gh/hemedani/yekan@v3.0.0/font-face.css" rel="stylesheet" type="text/css" />
 ```
